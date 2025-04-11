@@ -1,5 +1,5 @@
 document.getElementById("checkButton").addEventListener("click", function() {
-  let age = document.getElementById("age").value;
+  let age = document.getElementById("ageInput").value;
   let resultText = document.getElementById("resultText")
   let resultImage = document.getElementById("resultImage")
 
