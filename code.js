@@ -11,3 +11,9 @@ resultImage.src = "YOUR";
   resultText.innerText = "";
   resultText.style.color = "";
 resultImage.src = "YOUR CAR";
+} else if (age 16) {
+resultText.innerText = "text";
+resultText.style.color = "red";
+resultImage.src = "your rental car image link here";
+}
+});
