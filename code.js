@@ -6,14 +6,14 @@ document.getElementById("checkButton").addEventListener("click", function() {
 if(age <= 15) {
 resultText.innerText = "resultText";
 resultText.style.color="green";
-resultImage.src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbicyclingaustralia.com.au%2Fbikes%2Fridden-reviewed-world-bicycle-reliefs-buffalo-bike%2F&psig=AOvVaw3p26N_ZWYqOH7Uw72UxJQk&ust=1744475932167000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjWkMK10IwDFQAAAAAdAAAAABAE";
+resultImage.src = "https://m.media-amazon.com/images/I/714VPD4aluL.jpg";
 } else if (age >= 16 && age <= 24){
   resultText.innerText = "resultText";
   resultText.style.color = "green";
-resultImage.src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kbb.com%2Fwhat-is%2Fluxury-car%2F&psig=AOvVaw3gcuAYUVGYoCQLC9aAUuMZ&ust=1744476158785000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDyhKW20IwDFQAAAAAdAAAAABAJ";
+resultImage.src = "https://i.abcnewsfe.com/a/f43853f3-9eaf-4048-9ae7-757332c5787e/mclaren-1-ht-gmh-240412_1712928561648_hpMain_16x9.jpg?w=992";
 } else if (age >= 25) {
 resultText.innerText = "resultText";
 resultText.style.color = "green";
-resultImage.src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdrivo.com%2Fabout%2Flocations%2FEWR&psig=AOvVaw2_te9iiSuJagNvDghwqB9S&ust=1744476195243000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCf1LG20IwDFQAAAAAdAAAAABAI";
+resultImage.src = "https://api.drivo.com/uploads/images/locations/IMG_2961-min_UbKpF2x.png";
 }
 });
